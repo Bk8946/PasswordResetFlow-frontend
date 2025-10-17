@@ -81,7 +81,7 @@ function Register() {
                     type="email"
                     name="email"
                     id="email"
-                    placeholder="you@company.com"
+                    placeholder="bk123@gmail.com"
                     onChange={(e) => {
                       setEmail(e.target.value);
                     }}
